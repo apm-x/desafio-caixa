@@ -57,4 +57,4 @@ ChatGPT - DALL-E (voltei o ChatGPT para gerar as imagens, mas o prompt em portug
 
 ## 📚 Materiais
 
-- Imagens utilizadas e ebook estão dentro do main 
+- Imagens utilizadas e ebook estão dentro do main. Com os ícones gerados pelo DALL-E, eu os editei e tentei transformar numa espécie de papel de parede/marca d'água e na apresentação até ficou bom, mas no arquivo em pdf não ficou bom. Então os arquivos fazem parte do desenvolvimento do projeto mas não entraram na versão final. 
